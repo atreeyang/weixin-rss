@@ -1,6 +1,6 @@
 module.exports = {
 
-  proxyEnable: false,
+  proxyEnable: true,
 
 
   redis: {
@@ -9,6 +9,6 @@ module.exports = {
       auth: process.env.REDIS_PASSWORD
   },
 
-  proxy: 'http://114.36.105.161:8088'
+  proxy: process.env.PROXY
 
 }
