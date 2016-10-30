@@ -1,4 +1,5 @@
 # rss
+提供基于Docker的镜像来拉取微信公众号,实测支持daocloud. 注意Readis的配置
 提供微信公众号RSS订阅接口，基于nodejs koajs开发
 
 演示地址：[http://rss.wlwr.net](http://rss.wlwr.net)
