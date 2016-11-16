@@ -1,4 +1,4 @@
-WHAT THE FUCK !!!!redis 断线重连自动循环重试
+WHAT THE FUCfFFFK !!!!redis 断线重连自动循环重试
 # rss
 提供基于Docker的镜像来拉取微信公众号,实测支持daocloud. 注意Readis的配置
 提供微信公众号RSS订阅接口，基于nodejs koajs开发
